@@ -1,0 +1,17 @@
+<section class="section theme-{{ s.theme or 'white-bold' }} event-list-section">
+  <div class="section-inner"><div class="content">
+  {%- for ev in listEvents %}
+    <article class="event">
+      <a class="event-thumb" href="{{ ev.url }}/">
+        {%- if ev.image %}<img src="{{ ev.thumb or ev.image }}" alt="{{ ev.image_alt }}" loading="lazy" decoding="async">{% endif %}
+      </a>
+      <div class="event-info">
+        <h1 class="event-title"><a href="{{ ev.url }}/">{{ ev.title }}</a></h1>
+        {% include "event-meta.njk" %}
+        <div class="event-body">{% for p in ev.body %}{{ p | safe }}{% endfor %}</div>
+        <a class="btn btn-outline" href="{{ ev.url }}/">View Event →</a>
+      </div>
+    </article>
+  {%- endfor %}
+  </div></div>
+</section>

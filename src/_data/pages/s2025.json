@@ -1,0 +1,259 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "block-0015b84028daaeb83f33",
+    "type": "html",
+    "flow": true,
+    "html": "<h1 style=\"text-align: center\"><span style=\"color: rgb(9, 9, 9)\"><strong>2025 Summer Series</strong></span></h1><h1 style=\"text-align: center\"><span style=\"color: rgb(9, 9, 9)\"><strong>@ Guild Park</strong></span></h1>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "medium",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "bg": {
+   "src": "/images/tpguildpark-25-story-ndate-7e81b.jpg",
+   "pos": "50% 50%"
+  }
+ },
+ {
+  "theme": "white-bold",
+  "blocks": [
+   {
+    "id": "66f5cf8e4d1157a79a85",
+    "area_m": "1/1/9/6",
+    "area_d": "2/2/11/8",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-c6da8.jpg",
+    "alt": "",
+    "w": "1335",
+    "h": "1330",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "ffc856c18178910f612f",
+    "area_m": "1/6/9/11",
+    "area_d": "11/2/29/8",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-1-7d2cb.jpg",
+    "alt": "",
+    "w": "771",
+    "h": "776",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "6542cb233818458340bd",
+    "area_m": "9/2/12/9",
+    "area_d": "2/8/4/20",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p><strong>Join us for our 3rd Summer Series of Tender Possibilities!</strong></p>"
+   },
+   {
+    "id": "1f361042e5aeb4c208de",
+    "area_m": "12/2/44/10",
+    "area_d": "4/8/27/20",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>This year, we’re honored to host and facilitate sessions at Guild Park alongside featured poets and artists: <strong>Tiana Reid, Lillian Allen, wind in the leaves collective, Sanna Wani, </strong>and<strong> Furqan Mohamed.</strong></p><p>It’s hard to believe that what began as a small offering to reconnect in the wake of the COVID-19 pandemic and lockdowns has grown into such a luminous and supportive community. Our focus remains on facilitating a meditative environment for authentic engagement with poetry, how we tend to each other and to the world around us.</p><p>Each gathering invites participants not only to read and be exposed to poetry, but also to locate themselves within it. We hope to connect with those who may not have access to in-person spaces for deep poetic engagement, especially as many reading series tend to be industry-oriented and concentrated in the downtown core. </p><p>We believe poetry should always be an open invitation, one that nurtures a different kind of collective knowledge where its transformative effects can flourish.</p><p>This year join us at Guild Park on <strong>June 15, June 29, July 20, August 10, and/or August 24</strong>. Individual event registration will be open closer to each event. Stay up to date by following us on <a href=\"https://www.instagram.com/tenderpossibilities/\" target=\"_blank\">Instagram</a> or subscribing to our <a href=\"/newsletter/\" target=\"_blank\">newsletter</a>. </p>"
+   },
+   {
+    "id": "7b7e01dbcbf273ba18b9",
+    "area_m": "45/6/53/11",
+    "area_d": "8/21/29/26",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-2-c52e6.jpg",
+    "alt": "",
+    "w": "776",
+    "h": "760",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "3626e31a0d44619f6e59",
+    "area_m": "45/1/53/6",
+    "area_d": "2/21/8/26",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-3-d95e9.jpg",
+    "alt": "",
+    "w": "766",
+    "h": "755",
+    "pos": "center",
+    "fit": "cover"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "custom",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);",
+  "engine": {
+   "rows_m": 53,
+   "rows_d": 28,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "white-bold",
+  "blocks": [],
+  "gallery": false,
+  "kind": "events"
+ },
+ {
+  "theme": "white-bold",
+  "blocks": [
+   {
+    "id": "d6d097f37a604977998b",
+    "area_m": "1/2/4/10",
+    "area_d": "1/5/3/23",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h2 style=\"text-align: center\">Thank you to our funding and support from</h2>"
+   },
+   {
+    "id": "yui_3_17_2_1_1748300055085_6691",
+    "area_m": "4/2/6/10",
+    "area_d": "3/2/5/9",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/aitp-taf-tac-logo-lockup-cmyk-14db6.jpg",
+    "alt": "",
+    "w": "2728",
+    "h": "526",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "yui_3_17_2_1_1748300055085_7102",
+    "area_m": "6/2/8/6",
+    "area_d": "3/9/5/15",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/oac-logo-black-35258.png",
+    "alt": "",
+    "w": "1080",
+    "h": "300",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "c8360ecff61fc02d9052",
+    "area_m": "6/6/8/10",
+    "area_d": "3/15/5/20",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/on-pos-logo-black-rgb-4c5d0.png",
+    "alt": "",
+    "w": "3600",
+    "h": "1440",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "4796b1ef2bdfcc443f9b",
+    "area_m": "8/3/10/9",
+    "area_d": "3/20/5/25",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/sa-logo-black-vector-27136.png",
+    "alt": "",
+    "w": "268",
+    "h": "122",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "b9bf65a3366f89e89935",
+    "area_m": "10/2/12/10",
+    "area_d": "5/5/7/23",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h3 style=\"text-align: center\">Special thanks to our community partners</h3>"
+   },
+   {
+    "id": "a4e4baaf1a5aef9162f3",
+    "area_m": "15/2/17/5",
+    "area_d": "6/17/8/19",
+    "v_align": "center",
+    "h_align": "center",
+    "style": "--block-height: 69px;",
+    "type": "image",
+    "src": "/images/plazapops-34c1d.jpg",
+    "alt": "",
+    "w": "1046",
+    "h": "1340",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "7d0e2244fd6ca796475b",
+    "area_m": "12/5/15/10",
+    "area_d": "6/11/8/16",
+    "v_align": "center",
+    "h_align": "center",
+    "style": "--block-height: 69px;",
+    "type": "image",
+    "src": "/images/unnamed-725ae.png",
+    "alt": "",
+    "w": "1000",
+    "h": "500",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "7bb082f9f7a0211b95f9",
+    "area_m": "12/2/14/5",
+    "area_d": "6/7/8/11",
+    "v_align": "center",
+    "h_align": "center",
+    "style": "--block-height: 69px;",
+    "type": "image",
+    "src": "/images/friends-of-guild-park-5ee85.png",
+    "alt": "",
+    "w": "302",
+    "h": "188",
+    "pos": "center",
+    "fit": "contain"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 16,
+   "rows_d": 8,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ }
+]

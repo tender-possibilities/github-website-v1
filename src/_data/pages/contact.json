@@ -1,0 +1,46 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "yui_3_17_2_1_1748309322516_3854",
+    "area_m": "1/2/3/10",
+    "area_d": "1/2/4/12",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h1>Contact us</h1>"
+   },
+   {
+    "id": "yui_3_17_2_1_1748309322516_4229",
+    "area_m": "3/2/5/10",
+    "area_d": "4/2/6/10",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>e-mail: info@tenderpossibilities.ca</p>"
+   },
+   {
+    "id": "044fd1dc6fb052967aaf",
+    "area_m": "6/2/19/10",
+    "area_d": "8/3/19/13",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "form"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 18,
+   "rows_d": 18,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ }
+]

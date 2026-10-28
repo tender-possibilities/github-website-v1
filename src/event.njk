@@ -1,0 +1,31 @@
+---
+layout: base.njk
+pagination:
+  data: events.all
+  size: 1
+  alias: ev
+permalink: "{{ ev.url }}/index.html"
+eleventyComputed:
+  title: "{{ ev.title }}"
+  bodyClass: page-event
+---
+<section class="section theme-white event-page">
+  <div class="section-inner"><div class="content">
+    <p class="back-link"><a href="{{ ev.series.url }}">← Back to All Events</a></p>
+    <div class="event-layout">
+      <aside class="event-side">
+        <h1 class="event-title">{{ ev.title }}</h1>
+        {% include "event-meta.njk" %}
+      </aside>
+      <div class="event-body">{% for p in ev.body %}{{ p | safe }}{% endfor %}</div>
+    </div>
+    <nav class="event-nav" aria-label="Event navigation">
+      {%- if ev.prev %}
+      <a class="prev" href="{{ ev.prev.url }}/"><span class="arrow">‹</span><span><small>{{ ev.prev.date | monthUpperDay }}</small>{{ ev.prev.title }}</span></a>
+      {%- endif %}
+      {%- if ev.next %}
+      <a class="next" href="{{ ev.next.url }}/"><span><small>{{ ev.next.date | monthUpperDay }}</small>{{ ev.next.title }}</span><span class="arrow">›</span></a>
+      {%- endif %}
+    </nav>
+  </div></div>
+</section>

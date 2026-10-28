@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% set pageTitle = (title + " — " + site.title) if title else (site.title + " - " + site.tagline) %}
+  <title>{{ pageTitle }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ pageTitle }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/share-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preload" href="/fonts/cormorant-garamond-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <script>document.documentElement.classList.add("js")</script>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body class="{{ bodyClass }}">
+  <a class="skip-link" href="#page">Skip to Content</a>
+  <header class="site-header" id="header">
+    <div class="header-inner">
+      <a class="site-title" href="/">{{ site.title }}</a>
+      <nav class="site-nav" aria-label="Main">
+        <ul>
+        {%- for item in nav %}
+          {%- if item.children %}
+          <li class="has-folder{% if 'summer' in page.url %} is-current{% endif %}">
+            <button type="button" class="folder-toggle" aria-expanded="false">{{ item.label }}</button>
+            <ul class="folder-list">
+              {%- for c in item.children %}
+              <li><a href="{{ c.url }}">{{ c.label }}</a></li>
+              {%- endfor %}
+            </ul>
+          </li>
+          {%- else %}
+          <li{% if page.url == item.url %} class="is-current"{% endif %}><a href="{{ item.url }}">{{ item.label }}</a></li>
+          {%- endif %}
+        {%- endfor %}
+        </ul>
+      </nav>
+      <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open Menu"><span></span><span></span></button>
+    </div>
+  </header>
+  <div class="mobile-menu" id="mobile-menu" hidden>
+    <ul>
+    {%- for item in nav %}
+      {%- if item.children %}
+      <li>
+        <button type="button" class="folder-toggle" aria-expanded="false">{{ item.label }}</button>
+        <ul class="folder-list">
+          {%- for c in item.children %}<li><a href="{{ c.url }}">{{ c.label }}</a></li>{%- endfor %}
+        </ul>
+      </li>
+      {%- else %}
+      <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+      {%- endif %}
+    {%- endfor %}
+    </ul>
+  </div>
+
+  <main id="page">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="{{ site.instagram }}" aria-label="Instagram" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".6" fill="currentColor"/></svg>
+      </a>
+      <a href="mailto:{{ site.email }}" aria-label="Email">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m4 7 8 6 8-6"/></svg>
+      </a>
+    </div>
+  </footer>
+  <script src="/js/main.js" defer></script>
+</body>
+</html>

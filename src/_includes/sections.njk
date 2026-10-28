@@ -1,0 +1,25 @@
+{% from "blocks.njk" import renderBlock %}
+{%- for s in sections %}
+  {%- if s.kind == 'events' %}
+    {% include "events-list.njk" %}
+  {%- else %}
+  <section class="section theme-{{ s.theme or 'white' }} h-{{ s.section_height or 'auto' }} w-{{ s.content_width or 'wide' }}{% if s.bg %} has-bg{% endif %}">
+    {%- if s.bg %}<div class="section-bg"><img src="{{ s.bg.src }}" alt=""{% if s.bg.pos %} style="object-position: {{ s.bg.pos }}"{% endif %}></div>{% endif %}
+    <div class="section-inner"{% if s.wrapper_style %} style="{{ s.wrapper_style }}"{% endif %}>
+      <div class="content">
+      {%- if s.engine %}
+        <div class="grid" style="--rows-m: {{ s.engine.rows_m }}; --rows-d: {{ s.engine.rows_d }}; --gap: {{ s.engine.gap }}px; --row-scale: {{ s.engine.factor }}">
+        {%- for b in s.blocks %}
+          <div class="block block-{{ b.type }}" style="--area-m: {{ b.area_m }}; --area-d: {{ b.area_d }}; --v: {{ b.v_align or 'flex-start' }}; --h: {{ b.h_align or 'flex-start' }}">
+            {{ renderBlock(b, site) }}
+          </div>
+        {%- endfor %}
+        </div>
+      {%- else %}
+        {%- for b in s.blocks %}{{ renderBlock(b, site) }}{%- endfor %}
+      {%- endif %}
+      </div>
+    </div>
+  </section>
+  {%- endif %}
+{%- endfor %}

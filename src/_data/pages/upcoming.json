@@ -1,0 +1,35 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "478340625590098b67ba",
+    "area_m": "1/2/3/10",
+    "area_d": "1/6/2/22",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p style=\"text-align: center\">Stay tuned for more updates!</p>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 2,
+   "rows_d": 1,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "bright-inverse",
+  "blocks": [],
+  "gallery": false,
+  "kind": "events"
+ }
+]

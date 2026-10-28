@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Past events
+permalink: /past-events/index.html
+bodyClass: page-past
+---
+<section class="section theme-bright-inverse gallery-section">
+  <div class="section-inner"><div class="content">
+    <ul class="gallery-grid">
+    {%- for item in pastGallery %}
+      <li>
+        {%- if item.link %}
+        <a href="{{ item.link }}"{% if item.link.startsWith('http') %} target="_blank" rel="noopener"{% endif %}><img src="{{ item.thumb or item.src }}" alt="{{ item.alt }}" width="{{ item.w }}" height="{{ item.h }}" loading="lazy" decoding="async"></a>
+        {%- else %}
+        <a href="{{ item.src }}" class="lightbox-link"><img src="{{ item.thumb or item.src }}" alt="{{ item.alt }}" width="{{ item.w }}" height="{{ item.h }}" loading="lazy" decoding="async"></a>
+        {%- endif %}
+      </li>
+    {%- endfor %}
+    </ul>
+  </div></div>
+</section>

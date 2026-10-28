@@ -1,0 +1,42 @@
+[
+ {
+  "theme": "white-bold",
+  "blocks": [
+   {
+    "id": "ccb342cf4d60ce6870cd",
+    "area_m": "1/2/9/10",
+    "area_d": "3/4/15/12",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-ndate-bdbb9.jpg",
+    "alt": "",
+    "w": "2401",
+    "h": "1252",
+    "pos": "left",
+    "fit": "cover"
+   },
+   {
+    "id": "yui_3_17_2_1_1748310440155_2011",
+    "area_m": "9/2/17/10",
+    "area_d": "3/14/18/25",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "newsletter"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 16,
+   "rows_d": 28,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ }
+]

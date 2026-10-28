@@ -1,0 +1,13 @@
+[
+  { "label": "Home", "url": "/" },
+  { "label": "Summer Series", "children": [
+    { "label": "2026", "url": "/2026-summer-series-at-evergreen-brickworks/" },
+    { "label": "2025", "url": "/2025-summer-series-at-guild-park/" },
+    { "label": "2024", "url": "/2024summerseriesguildpark/" }
+  ] },
+  { "label": "Upcoming events", "url": "/upcoming-events/" },
+  { "label": "Past events", "url": "/past-events/" },
+  { "label": "Photos", "url": "/photos/" },
+  { "label": "Newsletter", "url": "/newsletter/" },
+  { "label": "Contact", "url": "/contact/" }
+]

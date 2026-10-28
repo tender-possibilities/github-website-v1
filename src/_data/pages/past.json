@@ -1,0 +1,13 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": true,
+  "wrapper_style": ""
+ }
+]

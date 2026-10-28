@@ -1,0 +1,41 @@
+{# Renders the sections of a page from its layout data. #}
+{% macro renderBlock(b, site) %}
+  {%- if b.type == 'html' %}
+    <div class="text">{{ b.html | safe }}</div>
+  {%- elif b.type == 'image' %}
+    {%- if b.href %}<a href="{{ b.href }}">{% endif %}
+    <div class="img reveal-{{ b.pos or 'center' }}"><img src="{{ b.src }}" alt="{{ b.alt }}" width="{{ b.w }}" height="{{ b.h }}" loading="lazy" decoding="async"></div>
+    {%- if b.href %}</a>{% endif %}
+  {%- elif b.type == 'accordion' %}
+    <ul class="accordion">
+    {%- for it in b.items %}
+      <li>
+        <button type="button" class="accordion-title" aria-expanded="false"><span>{{ it.title }}</span><i class="plus" aria-hidden="true"></i></button>
+        <div class="accordion-body"><div>{{ it.html | safe }}</div></div>
+      </li>
+    {%- endfor %}
+    </ul>
+  {%- elif b.type == 'shape' %}
+    <div class="shape" aria-hidden="true"></div>
+  {%- elif b.type == 'newsletter' %}
+    <div class="newsletter-note">
+      <h2>Subscribe to our newsletter</h2>
+      <p>Email <a href="mailto:{{ site.email }}?subject=Newsletter">{{ site.email }}</a> to subscribe to our newsletter and stay up to date with upcoming events and updates!</p>
+    </div>
+  {%- elif b.type == 'form' %}
+    {%- if site.contactFormAction %}
+    <form class="contact-form" action="{{ site.contactFormAction }}" method="post">
+      <fieldset>
+        <legend>Name</legend>
+        <div class="two-col">
+          <label>First Name <small>(required)</small><input name="first_name" required></label>
+          <label>Last Name <small>(required)</small><input name="last_name" required></label>
+        </div>
+      </fieldset>
+      <label>Email <small>(required)</small><input type="email" name="email" required></label>
+      <label>Message <small>(required)</small><textarea name="message" rows="5" required></textarea></label>
+      <button class="btn" type="submit">Submit</button>
+    </form>
+    {%- endif %}
+  {%- endif %}
+{% endmacro %}

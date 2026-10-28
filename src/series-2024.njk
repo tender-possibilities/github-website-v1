@@ -1,0 +1,9 @@
+---
+layout: base.njk
+title: "2024 Summer Series"
+permalink: /2024summerseriesguildpark/index.html
+bodyClass: page-series
+---
+{% set sections = pages.s2024 %}
+{% set listEvents = events.byGroup['2024'] %}
+{% include "sections.njk" %}

@@ -1,0 +1,163 @@
+[
+ {
+  "theme": "black",
+  "blocks": [
+   {
+    "id": "block-4a9eace3c8a93a8b9f20",
+    "type": "html",
+    "flow": true,
+    "html": "<h2 style=\"text-align: center\"><strong>Summer Series @ Guild Park</strong></h2>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "medium",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "bg": {
+   "src": "/images/tender-possibilities-image-1-457e2.jpg",
+   "pos": "50% 50%"
+  }
+ },
+ {
+  "theme": "white",
+  "blocks": [
+   {
+    "id": "7bc1ef6c6fb3044c48e0",
+    "area_m": "1/2/11/10",
+    "area_d": "1/6/11/22",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h2 style=\"text-align: center\">Tender Possibilities is at Guild Park and Gardens! </h2><p style=\"text-align: center\">As a community, we often feel like remnants of old Toronto, witnessing the transformation of our neighbourhoods and the impact it has on our daily lives. Ruins are not just physical structures; they are sites of possibility and imagination. They evoke a sense of mystery and wonder, inviting us to project our desires and aspirations onto them. Just as we are here to witness the ruins of old Toronto buildings, we recognize that future generations will witness the ruins of the condo projects that dominate our skyline today. By animating Guild Parks and Gardens, we are not only preserving the history of our city but also contributing to the documentation of its ongoing transformation.</p>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 10,
+   "rows_d": 10,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "white-bold",
+  "blocks": [],
+  "gallery": false,
+  "kind": "events"
+ },
+ {
+  "theme": "white",
+  "blocks": [
+   {
+    "id": "aee63834c935e6b6c3a1",
+    "area_m": "1/2/4/10",
+    "area_d": "1/6/3/22",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h2 style=\"text-align: center\">Thank you to our funding and support from</h2>"
+   },
+   {
+    "id": "yui_3_17_2_1_1715619855052_10655",
+    "area_m": "4/2/7/10",
+    "area_d": "3/10/6/18",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/aitp-taf-tac-logo-lockup-cmyk-14db6.jpg",
+    "alt": "",
+    "w": "2728",
+    "h": "526",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "1525449e5bd3e3f9e312",
+    "area_m": "7/2/14/10",
+    "area_d": "6/6/8/22",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h3 style=\"text-align: center\">Special thanks to our community partners</h3>"
+   },
+   {
+    "id": "yui_3_17_2_1_1715619855052_11745",
+    "area_m": "9/3/11/6",
+    "area_d": "7/8/9/10",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/friends-of-guild-park-5ee85.png",
+    "alt": "",
+    "w": "302",
+    "h": "188",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "6a71eceb6327122ff691",
+    "area_m": "12/3/14/6",
+    "area_d": "7/14/9/16",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/sa-logo-black-vector-2-27136.png",
+    "alt": "",
+    "w": "268",
+    "h": "122",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "03530973941c177ca5c3",
+    "area_m": "9/7/11/9",
+    "area_d": "7/11/9/13",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/plazapops-34c1d.jpg",
+    "alt": "",
+    "w": "1046",
+    "h": "1340",
+    "pos": "center",
+    "fit": "contain"
+   },
+   {
+    "id": "680581350533c969cbd1",
+    "area_m": "12/7/14/10",
+    "area_d": "7/17/9/21",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/unnamed-725ae.png",
+    "alt": "",
+    "w": "1000",
+    "h": "500",
+    "pos": "center",
+    "fit": "contain"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 13,
+   "rows_d": 9,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ }
+]

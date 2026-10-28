@@ -1,0 +1,5 @@
+<ul class="event-meta">
+  <li>{{ ev.date_text }}</li>
+  {%- if ev.start %}<li>{{ ev.start }} – {{ ev.end }}</li>{% endif %}
+  {%- if ev.address.length %}<li>{{ ev.address | join(", ") }}{% if ev.map %} <a href="{{ ev.map }}" target="_blank" rel="noopener">(map)</a>{% endif %}</li>{% endif %}
+</ul>

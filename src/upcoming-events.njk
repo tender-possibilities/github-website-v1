@@ -1,0 +1,9 @@
+---
+layout: base.njk
+title: Upcoming events
+permalink: /upcoming-events/index.html
+bodyClass: page-upcoming
+---
+{% set sections = pages.upcoming %}
+{% set listEvents = events.byGroup['upcoming'] %}
+{% include "sections.njk" %}

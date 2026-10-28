@@ -1,0 +1,415 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "9cd8fce7b6ea51671412",
+    "area_m": "2/2/6/8",
+    "area_d": "3/5/13/19",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<div class=\"sqsrte-scaled-text-container\"><span class=\"sqsrte-scaled-text\" style=\"font-size: 317.3px\"><h1>Tender</h1></span></div>"
+   },
+   {
+    "id": "2d8a7e8705d2f1027574",
+    "area_m": "6/3/10/9",
+    "area_d": "11/10/17/23",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<div class=\"sqsrte-scaled-text-container\"><span class=\"sqsrte-scaled-text\" style=\"font-size: 186.3px\"><h1>Possibilities</h1></span></div>"
+   },
+   {
+    "id": "fd545629dbf932854905",
+    "area_m": "10/4/12/11",
+    "area_d": "18/15/20/23",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>a poetry reading group</p>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "custom",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);",
+  "engine": {
+   "rows_m": 11,
+   "rows_d": 19,
+   "factor": 0.0215,
+   "gap": 5.0
+  }
+ },
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "4c40c38417056a98c9a9",
+    "area_m": "1/6/7/10",
+    "area_d": "1/3/8/7",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tender-possibilities-nature-amy-ching-yan-lam-1-31631.jpg",
+    "alt": "",
+    "w": "2127",
+    "h": "2836",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "55dab3fc568b599b5aee",
+    "area_m": "7/2/21/10",
+    "area_d": "1/8/8/24",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>Tender Possibilities is a participatory poetry exploration and creative placemaking initiative geared towards young adults (primarily but not exclusively aged 21-35 years old) who have found their voices and political power on digital platforms, but may have lost touch with the transformative power of shared cultural spaces. This initiative places an emphasis on engaging young adults from racialized communities, people of all identities living on low income, 2SLGBTQ+ people, single mothers and others who face disproportionate barriers to accessing rich cultural experiences.</p>"
+   },
+   {
+    "id": "aa501f296ee4dbca3f98",
+    "area_m": "21/4/25/10",
+    "area_d": "22/3/29/10",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/img-0214-d6bc8.jpg",
+    "alt": "",
+    "w": "1458",
+    "h": "992",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "e3cb8ab3c3b16987c7dd",
+    "area_m": "26/2/43/10",
+    "area_d": "13/3/21/19",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>This project centers the alchemic possibilities of poetry. Each gathering provides a supportive and inclusive cultural experience that creates imaginative and creative space for participants to not only read and be exposed to poetry, but to also locate themselves within the poetry. Through carefully curated theme-inspired poems, participants are invited to listen, reflect, and respond. This holistic experience results in greater in-person, communal cultural experiences, builds community, and exemplifies the enduring resonance of power, people and place.</p>"
+   },
+   {
+    "id": "a021382e35e377bbd6e0",
+    "area_m": "39/6/43/10",
+    "area_d": "13/20/19/26",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/img-3767-aba5a.jpg",
+    "alt": "",
+    "w": "8064",
+    "h": "6048",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "9b1464301e6123d38c8b",
+    "area_m": "44/2/56/10",
+    "area_d": "22/11/29/26",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>Our focus is on creating a meditative environment, where individuals can listen and freely express their thoughts and feelings without over-intellectualizing the works. Above all, Tender Possibilities is committed to weaving an inclusive and interconnected community fabric, where individuals from diverse backgrounds can come together, engage in meaningful dialogue about poetry, and actively contribute to the collective growth and well-being of our neighbourhoods.</p>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 55,
+   "rows_d": 28,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "2de3b229357c9a3098e1",
+    "area_m": "1/2/3/10",
+    "area_d": "2/15/4/23",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h3>Team</h3>"
+   },
+   {
+    "id": "9974b7872f2ef573baf8",
+    "area_m": "3/2/17/10",
+    "area_d": "1/4/13/10",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tp-23-24677.jpg",
+    "alt": "",
+    "w": "2148",
+    "h": "2961",
+    "pos": "left",
+    "fit": "cover"
+   },
+   {
+    "id": "428528f560f181cfca81",
+    "area_m": "17/2/19/10",
+    "area_d": "14/4/15/11",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "accordion",
+    "items": [
+     {
+      "title": "Farhia Tato (she/her)",
+      "html": "<p>Founder, Artistic Director</p>"
+     }
+    ]
+   },
+   {
+    "id": "56d672677ab48d973453",
+    "area_m": "19/2/33/10",
+    "area_d": "10/17/22/23",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tp-9-01128.jpg",
+    "alt": "",
+    "w": "2160",
+    "h": "2965",
+    "pos": "left",
+    "fit": "cover"
+   },
+   {
+    "id": "7f3a069ef52464c46239",
+    "area_m": "33/2/35/10",
+    "area_d": "22/17/23/23",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "accordion",
+    "items": [
+     {
+      "title": "Anda Untila (she/her)",
+      "html": "<p>Co-Founder, Creative Director</p>"
+     }
+    ]
+   },
+   {
+    "id": "9a18a36b82bb04d54ce2",
+    "area_m": "35/2/49/10",
+    "area_d": "23/6/35/12",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/img-9397-medium-cc42e.jpg",
+    "alt": "",
+    "w": "427",
+    "h": "640",
+    "pos": "left",
+    "fit": "cover"
+   },
+   {
+    "id": "69399853ae84984eaa8d",
+    "area_m": "49/2/51/10",
+    "area_d": "35/6/36/12",
+    "v_align": "center",
+    "h_align": "center",
+    "style": "--block-height: 29px;",
+    "type": "accordion",
+    "items": [
+     {
+      "title": "Nala Haileselassie (she/her)",
+      "html": "<p>Community Outreach Coordinator</p>"
+     }
+    ]
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "large",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 50,
+   "rows_d": 40,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "223390b77d9da6e79033",
+    "area_m": "1/2/14/10",
+    "area_d": "3/2/11/10",
+    "v_align": "center",
+    "h_align": "center",
+    "style": "color: rgb(220, 220, 220); filter: drop-shadow(0px 0px 2px); mix-blend-mode: normal;",
+    "type": "shape",
+    "shape_w": "344px"
+   },
+   {
+    "id": "ca4add44cc3f7295688f",
+    "area_m": "1/2/2/10",
+    "area_d": "1/2/3/7",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "html",
+    "html": "<p class=\"sqsrte-small\"><strong>UPCOMING EVENTS</strong></p>"
+   },
+   {
+    "id": "dd471ffa2b5ddf8e39b5",
+    "area_m": "5/3/7/9",
+    "area_d": "5/4/6/8",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "html",
+    "html": "<p style=\"text-align: center\">2026 Summer Series</p>"
+   },
+   {
+    "id": "51d02b8f2950c556af6a",
+    "area_m": "6/3/9/9",
+    "area_d": "6/3/8/9",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "html",
+    "html": "<p style=\"text-align: center\"><a href=\"/2026-summer-series-at-evergreen-brickworks/\"><strong>Evergreen Brick Works</strong></a></p>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 13,
+   "rows_d": 10,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "1399a01f90adc248cdc0",
+    "area_m": "3/7/8/10",
+    "area_d": "4/24/11/27",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/screenshot-2024-09-19-at-12-23-51-pm-0d918.png",
+    "alt": "",
+    "w": "1328",
+    "h": "1778",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "1befd90c75ec3f082bc6",
+    "area_m": "4/2/9/5",
+    "area_d": "4/17/10/21",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/screenshot-2024-09-01-at-11-14-13-am-bb8f8.png",
+    "alt": "",
+    "w": "938",
+    "h": "1050",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "14d9a4b550b812ed63cc",
+    "area_m": "1/5/6/8",
+    "area_d": "1/6/7/10",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/20240609-161958-f91b4.jpg",
+    "alt": "",
+    "w": "4000",
+    "h": "3000",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "a415f713993f3abf4fd9",
+    "area_m": "9/3/11/11",
+    "area_d": "8/5/11/11",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "html",
+    "html": "<p class=\"sqsrte-large\"><strong>CONTACT</strong></p>"
+   },
+   {
+    "id": "3456f526b93a91307b0f",
+    "area_m": "11/3/14/11",
+    "area_d": "11/7/13/15",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>e-mail: <a href=\"mailto:info@tenderpossibilities.ca\">info@tenderpossibilities.ca</a><br/>IG: <a href=\"https://www.instagram.com/tenderpossibilities/\">@tenderpossibilities</a></p>"
+   },
+   {
+    "id": "eedd7f8638bc0ed3ae4e",
+    "area_m": "13/7/18/10",
+    "area_d": "15/20/21/24",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/img-0226-6a8d6.jpg",
+    "alt": "",
+    "w": "668",
+    "h": "668",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "571bb7a30c702cb03f60",
+    "area_m": "14/2/19/5",
+    "area_d": "11/1/19/6",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/screenshot-2024-07-09-at-12-46-22-pm-8e47e.png",
+    "alt": "",
+    "w": "1412",
+    "h": "1754",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "yui_3_17_2_1_1748300055085_5712",
+    "area_m": "19/2/27/10",
+    "area_d": "22/4/28/24",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "newsletter"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "small",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "engine": {
+   "rows_m": 26,
+   "rows_d": 27,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ }
+]

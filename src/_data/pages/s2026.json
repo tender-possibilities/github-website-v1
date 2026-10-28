@@ -1,0 +1,131 @@
+[
+ {
+  "theme": "bright-inverse",
+  "blocks": [
+   {
+    "id": "3a00cd10668c08bdeea5",
+    "area_m": "2/2/9/10",
+    "area_d": "1/4/9/24",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<h1 style=\"text-align: center\"><span style=\"color: rgb(9, 9, 9)\"><strong>2026 Summer Series</strong></span></h1><h1 style=\"text-align: center\"><span style=\"color: rgb(9, 9, 9)\"><strong>@ Evergreen Brick Works</strong></span></h1>"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "medium",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "",
+  "bg": {
+   "src": "/images/ig-event-posts-01-d48b5.jpg",
+   "pos": "52% 23.2%"
+  },
+  "engine": {
+   "rows_m": 9,
+   "rows_d": 8,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "white-bold",
+  "blocks": [
+   {
+    "id": "yui_3_17_2_1_1779244464875_2289",
+    "area_m": "1/2/7/10",
+    "area_d": "2/2/12/8",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-c6da8.jpg",
+    "alt": "",
+    "w": "1335",
+    "h": "1330",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "yui_3_17_2_1_1779244464875_2604",
+    "area_m": "7/2/13/10",
+    "area_d": "12/2/40/8",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-1-7d2cb.jpg",
+    "alt": "",
+    "w": "771",
+    "h": "776",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "yui_3_17_2_1_1779244464875_1649",
+    "area_m": "13/2/15/10",
+    "area_d": "2/8/4/20",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p><strong>Join us for <em>Inventory of Infinite Traces, our 4th</em> Summer Series of Tender Possibilities!</strong></p>"
+   },
+   {
+    "id": "yui_3_17_2_1_1779244464875_1905",
+    "area_m": "15/2/17/10",
+    "area_d": "4/8/39/20",
+    "v_align": "flex-start",
+    "h_align": "flex-start",
+    "type": "html",
+    "html": "<p>This year, we’re honored to host and facilitate sessions at <a href=\"https://www.evergreen.ca/evergreen-brick-works/\">Evergreen Brick Works</a> alongside featured poets <strong>Chiedza Pasipanodya, Sha Agbayani, Maysam Ghani, </strong>and to collaborate with featured visual artists <strong>Soledad Fátima Muñoz</strong>, <strong>Nala Haileselassie </strong>and <strong>Sienna Shields</strong>. </p><p>An evolving installation unfolds across the series, beginning with a sculptural work by Sienna Shields in the opening session. Across the summer, Soledad Fátima Muñoz and Nala Haileselassie develop a collaborative textile installation drawing on quilting and woven forms. Through textile and sculpture, the artists engage the material as a site of memory, relation, and social, political and sonic charge.</p><p>Drawing on Antonio Gramsci’s concept of the “infinity of traces,” the series considers how what we inherit through migration and displacement continues to manifest in how we live and understand ourselves. Grounded in an understanding of racial capitalism as a force shaping social life, it attends to how labour, kinship, and value are structured within racialized and gendered hierarchies, even as they are continually remade and resisted.</p><p>The series approaches artistic practice as a way of assembling an inventory of these forces. Public programming invites participants to consider how families, communities and forms of care are shaped within and against systems that appear totalizing, creating space for reflection and new ways of being together.</p><p></p><p>This year join us at Evergreen Brick Works on <strong>June 7, June 21 and/or July 12.</strong> Individual event registration will be open closer to each event. Stay up to date by following us on <a href=\"https://www.instagram.com/tenderpossibilities/\" target=\"_blank\">Instagram</a> or subscribing to our <a href=\"/newsletter/\" target=\"_blank\">newsletter</a>.</p><p></p>"
+   },
+   {
+    "id": "yui_3_17_2_1_1779244464875_3306",
+    "area_m": "17/2/23/10",
+    "area_d": "2/20/9/26",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-2-d95e9.jpg",
+    "alt": "",
+    "w": "766",
+    "h": "755",
+    "pos": "center",
+    "fit": "cover"
+   },
+   {
+    "id": "yui_3_17_2_1_1779244464875_3833",
+    "area_m": "23/2/29/10",
+    "area_d": "8/20/39/26",
+    "v_align": "center",
+    "h_align": "center",
+    "type": "image",
+    "src": "/images/tpguildpark-25-grid-wdates-3-c52e6.jpg",
+    "alt": "",
+    "w": "776",
+    "h": "760",
+    "pos": "center",
+    "fit": "cover"
+   }
+  ],
+  "background_width": "full-bleed",
+  "section_height": "custom",
+  "content_width": "wide",
+  "horizontal_alignment": "center",
+  "vertical_alignment": "middle",
+  "gallery": false,
+  "wrapper_style": "padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);",
+  "engine": {
+   "rows_m": 32,
+   "rows_d": 39,
+   "factor": 0.0215,
+   "gap": 11.0
+  }
+ },
+ {
+  "theme": "white",
+  "blocks": [],
+  "gallery": false,
+  "kind": "events"
+ }
+]
