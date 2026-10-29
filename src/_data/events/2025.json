@@ -85,7 +85,12 @@
   "date_text": "Sunday, June 29, 2025",
   "start": "2:00 PM",
   "end": "4:30 PM",
-  "address": [],
+  "address": [
+   "Guild Park and Gardens",
+   "201 Guildwood Parkway",
+   "Toronto, ON, M1E",
+   "Canada"
+  ],
   "map": "http://maps.google.com/?q=201%20Guildwood%20Parkway%20Toronto,%20ON,%20M1E%20Canada",
   "gcal": "http://www.google.com/calendar/event?action=TEMPLATE&text=Soul%20Rhythms%20with%20Lillian%20Allen&dates=20250629T180000Z/20250629T203000Z&location=201%20Guildwood%20Parkway%2C%20Toronto%2C%20ON%2C%20M1E%2C%20Canada",
   "from_excerpt": true,
@@ -93,7 +98,8 @@
    "<p>This session of <a href=\"/2025-summer-series-at-guild-park/\"><strong>Tender Possibilities</strong></a> moves through the political and spiritual frequencies of dub, spoken word, and sound poetry. Forms grounded in oral traditions that center the sonic textures of language. These poems emerge as a generative force in the ongoing (re)making of society, ideology, and aesthetics. Sung, spoken, chanted, and embodied as memory and medicine. Participants are invited to feel and inhabit these layered soundscapes, and to respond.</p>",
    "<p style=\"text-align: center\">This session will be facilitated by Featured Poet <strong>Lillian Allen</strong> and Tender Possibilities’ founder, <strong>Farhia Tato</strong>.</p>",
    "<p style=\"text-align: center\"><strong>Lillian Allen</strong>, Toronto's 7th Poet Laureate loves poetry like stars love the sky, like moonlight lights the night, and like how morning greets sunlight. Lillian Allen is an acclaimed foremother of Canadian poetry and has been working for decades exploring poetic languages of the soul, with word, before words, and beyond words. Lillian is also a leading international exponent, creator and innovator of dub poetry and spoken word, who travels internationally to read/perform her poetry. A mentor to the mentors, she has received numerous accolades and awards for her work and uplifting vision.</p>",
-   "<p style=\"text-align: center\"><strong>We will be serving food from 1:30 pm - 2:00 pm. At 2pm, we will walk deeper into the park and begin the session there!</strong></p>"
+   "<p style=\"text-align: center\"><strong>We will be serving food from 1:30 pm - 2:00 pm. At 2pm, we will walk deeper into the park and begin the session there!</strong></p>",
+   "<p style=\"text-align: center\"><a href=\"https://www.eventbrite.ca/e/soul-rhythms-with-lillian-allen-tickets-1415100927969\" target=\"_blank\" rel=\"noopener\"><strong>RSVP here</strong></a></p>"
   ],
   "thumb": "/images/soulrythms-c911e.jpg"
  },

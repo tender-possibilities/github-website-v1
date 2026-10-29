@@ -411,7 +411,12 @@
   "date_text": "Saturday, January 27, 2024",
   "start": "2:00 PM",
   "end": "3:30 PM",
-  "address": [],
+  "address": [
+   "Gallery TPW",
+   "170 Saint Helens Avenue",
+   "Toronto, ON, M6H 4A1",
+   "Canada"
+  ],
   "map": "http://maps.google.com/?q=170%20Saint%20Helens%20Avenue%20Toronto,%20ON,%20M6H%204A1%20Canada",
   "gcal": "http://www.google.com/calendar/event?action=TEMPLATE&text=Inheritance%20%282024%20Poet-in-Residence%20%40%20Gallery%20TPW%29&dates=20240127T190000Z/20240127T203000Z&location=170%20Saint%20Helens%20Avenue%2C%20Toronto%2C%20ON%2C%20M6H%204A1%2C%20Canada",
   "from_excerpt": true,
@@ -430,7 +435,12 @@
   "date_text": "Sunday, November 26, 2023",
   "start": "2:00 PM",
   "end": "3:15 PM",
-  "address": [],
+  "address": [
+   "Dufferin Grove Park (South Fire Pit)",
+   "875 Dufferin Street",
+   "Toronto, ON, M6H 3K8",
+   "Canada"
+  ],
   "map": "http://maps.google.com/?q=875%20Dufferin%20Street%20Toronto,%20ON,%20M6H%203K8%20Canada",
   "gcal": "http://www.google.com/calendar/event?action=TEMPLATE&text=Last%20Outdoor%20Session%20of%202023%21&dates=20231126T190000Z/20231126T201500Z&location=875%20Dufferin%20Street%2C%20Toronto%2C%20ON%2C%20M6H%203K8%2C%20Canada",
   "from_excerpt": true,
@@ -450,7 +460,12 @@
   "date_text": "Sunday, November 12, 2023",
   "start": "2:00 PM",
   "end": "3:15 PM",
-  "address": [],
+  "address": [
+   "Dufferin Grove Park (South Fire Pit)",
+   "875 Dufferin Street",
+   "Toronto, ON, M6H 3K8",
+   "Canada"
+  ],
   "map": "http://maps.google.com/?q=875%20Dufferin%20Street%20Toronto,%20ON,%20M6H%203K8%20Canada",
   "gcal": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fire%20Pit%20Sessions%20Begin%21&dates=20231112T190000Z/20231112T201500Z&location=875%20Dufferin%20Street%2C%20Toronto%2C%20ON%2C%20M6H%203K8%2C%20Canada",
   "from_excerpt": true,
