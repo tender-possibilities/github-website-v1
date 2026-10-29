@@ -202,7 +202,10 @@ strong { font-weight: 700; }
   justify-content: var(--v);
   align-items: stretch;
   min-width: 0;
+  position: relative;
+  z-index: 1;
 }
+.block-shape { z-index: 0; }
 @media (min-width: 768px) { .block { grid-area: var(--area-d); } }
 .block-image, .block-shape { align-items: stretch; }
 .block .text { width: 100%; }
